@@ -1,0 +1,46 @@
+{
+    "data":[
+        {
+            "id":1,
+            "image":"/asserts/plate.png",
+            "title":"plate-1",
+            "price":230,
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea illo labore, in numquam impedit voluptates ducimus ut perferendis fuga, nostrum nihil beatae officiis quia laborum, consequatur totam esse voluptatem minima?",
+            "rating":"3.4"
+
+        },
+        {
+            "id":2,
+            "image":"/asserts/plate2.png",
+            "title":"plate-2",
+            "price":530,
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea illo labore, in numquam impedit voluptates ducimus ut perferendis fuga, nostrum nihil beatae officiis quia laborum, consequatur totam esse voluptatem minima?",
+            "rating":"4.5"
+            
+        },
+        {
+            "id":3,
+            "image":"/asserts/plate3.png",
+            "title":"plate-3",
+            "price":430,
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea illo labore, in numquam impedit voluptates ducimus ut perferendis fuga, nostrum nihil beatae officiis quia laborum, consequatur totam esse voluptatem minima?",
+            "rating":"5"
+        },
+        {
+            "id":4,
+            "image":"/asserts/plate4.png",
+            "title":"plate-4",
+            "price":330,
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea illo labore, in numquam impedit voluptates ducimus ut perferendis fuga, nostrum nihil beatae officiis quia laborum, consequatur totam esse voluptatem minima?",
+            "rating":"3"
+        },
+        {
+            "id":5,
+            "image":"/asserts/plate5.png",
+            "title":"plate-5",
+            "price":280,
+            "description":"Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ea illo labore, in numquam impedit voluptates ducimus ut perferendis fuga, nostrum nihil beatae officiis quia laborum, consequatur totam esse voluptatem minima?",
+            "rating":"3.8"
+        }
+    ]
+}
